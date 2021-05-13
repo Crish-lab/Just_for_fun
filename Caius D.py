@@ -1,9 +1,9 @@
 '''
 Calculating Caius D size from The Titan's bride
-
+This is not the cleanest code and it was made for fun
 '''
 
-# Japan national basketball team heights
+# Japan men's national basketball team. 2021 FIBA Asia Cup qualification roster
 Basketball_players_height = [206, 181, 167, 191, 186, 207, 190, 192, 207, 192, 206, 198]
 average_individual_height = sum(Basketball_players_height)/float(len(Basketball_players_height))
 
