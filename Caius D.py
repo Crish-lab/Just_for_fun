@@ -1,5 +1,5 @@
 '''
-Calculating Caius D size from The Titan's bride
+Calculating Caius D size from The Titan's bride "kyojin no hanayome"
 This is not the cleanest code and it was made for fun
 '''
 
