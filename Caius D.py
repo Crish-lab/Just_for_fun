@@ -4,7 +4,7 @@ This is not the cleanest code and it was made for fun
 '''
 
 # Japan men's national basketball team. 2021 FIBA Asia Cup qualification roster
-Basketball_players_height = [206, 181, 167, 191, 186, 207, 190, 192, 207, 192, 206, 198]
+Basketball_players_height = [206, 181, 167, 191, 186, 207, 190, 192, 207, 192, 206, 198] #in centimeters
 average_individual_height = sum(Basketball_players_height)/float(len(Basketball_players_height))
 
 kouichi_height = average_individual_height
